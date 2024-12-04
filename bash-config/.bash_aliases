@@ -1,4 +1,3 @@
-# aliases
 alias db-start="docker start giga-pg"
 alias db-stop="docker stop giga-pg"
 alias db-create="sh ~/ysedda-utils/postgres-docker/create-db.sh"
